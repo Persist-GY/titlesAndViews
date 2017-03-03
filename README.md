@@ -1,4 +1,4 @@
-# -
+# titlesAndViews
 gaoyang
 TitlesAndContentViews *view = [[TitlesAndContentViews alloc]initWithFrame:CGRectMake(0, 50, SWIDTH, SHEIGHT-50-64) titles:titles views:views titleColor:MAINBLUE lineColor:MAINBLUE];
     view.indexBlock = ^(NSInteger index){
